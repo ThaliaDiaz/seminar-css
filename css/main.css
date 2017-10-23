@@ -76,6 +76,6 @@ button{
  margin: 0 15px;
 }
 
-span:hover, .box-header ul li{
+span:hover, .box-header ul li:hover{
     color: #f9a91a;
 }
